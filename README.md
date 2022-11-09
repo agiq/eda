@@ -43,4 +43,4 @@ Making affective decision on when and when not to approve loan applications is p
 ## Contact
 Created by [@vprasath1902 & @agiq]
 
-Please find more details of this case study in https://vprasath1902.github.io/
+Please find more details of this case study in https://agiq.github.io/eda/
