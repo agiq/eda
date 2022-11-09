@@ -1,4 +1,5 @@
 # Lending Club Analysis
+Note: Below is a summary of our analysis.  You can find a full write up at my [Github Page](https://agiq.github.io/eda/).
 Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:<br> <br>
 1.If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company <br> <br>
@@ -11,7 +12,7 @@ When the company receives a loan application, the company has to make a decision
 - Data Analysis
 - Recommendations
 
-## Data Cleansing
+## [Data Cleansing](https://agiq.github.io/eda/#data-analysis)
 - Drop the columns that are empty
 - Drop the columns with more than 70% of empty values
 - Drop the columns with same value repeated for all rows
