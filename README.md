@@ -1,4 +1,4 @@
-# Lending Club Analysis
+# [Lending Club Analysis](https://agiq.github.io/eda/)
 Note: Below is a summary of our analysis.  You can find a full write up at my [Github Page](https://agiq.github.io/eda/).
 Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
 When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:<br> <br>
